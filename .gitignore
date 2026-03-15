@@ -1,3 +1,6 @@
+# Secrets
+.env
+
 # Directories
 node_modules/
 coverage/
