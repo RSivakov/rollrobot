@@ -77,7 +77,7 @@ export function createBot(token: string): Bot {
 
   bot.on('inline_query', async (ctx) => {
     const results = createInlineArticles(ctx.inlineQuery.query);
-    await ctx.answerInlineQuery(results, { cache_time: 0 });
+    await ctx.answerInlineQuery(results, { cache_time: 0, is_personal: true });
   });
 
   return bot;
