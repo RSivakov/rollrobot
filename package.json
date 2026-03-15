@@ -1,19 +1,19 @@
 {
-  "name": "rollrobot",
+  "name": "rollthembot",
   "private": true,
   "version": "3.0.0-alpha.1",
   "description": "Roll Robot is a Telegram bot for dice rolling.",
-  "keywords": ["rollrobot", "telegram", "bot", "roll", "dice", "random"],
-  "homepage": "https://github.com/edloidas/rollrobot",
+  "keywords": ["rollthembot", "telegram", "bot", "roll", "dice", "random"],
+  "homepage": "https://github.com/edloidas/rollthembot",
   "bugs": {
-    "url": "https://github.com/edloidas/rollrobot/issues",
+    "url": "https://github.com/edloidas/rollthembot/issues",
     "email": "edloidas@gmail.com"
   },
   "license": "MIT",
   "author": "Mikita Taukachou <edloidas@gmail.com> (http://edloidas.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/edloidas/rollrobot.git"
+    "url": "https://github.com/edloidas/rollthembot.git"
   },
   "type": "module",
   "scripts": {

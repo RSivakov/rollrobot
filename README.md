@@ -1,14 +1,14 @@
-Roll Robot
-==========
+Roll Them Bot
+=============
 
-[![https://telegram.me/rollrobot](https://img.shields.io/badge/💬%20Telegram-rollrobot-blue.svg)](https://telegram.me/rollrobot)
+[![https://telegram.me/rollthembot](https://img.shields.io/badge/💬%20Telegram-rollthembot-blue.svg)](https://telegram.me/rollthembot)
 [![https://telegram.me/edloidas](https://img.shields.io/badge/💬%20Telegram-edloidas-blue.svg)](https://telegram.me/edloidas)
 
 > A Telegram bot that can roll the dice like no one before.
 
 ## About ##
 
-Roll Robot is a telegram bot used for common "roll the dice" purposes which is working on group chats.
+Roll Them Bot is a telegram bot used for common "roll the dice" purposes which is working on group chats.
 
 ## Description ##
 
@@ -16,7 +16,7 @@ Roll the dice like no one before. Generate random numbers by default RPG pattern
 
 Bot recognizes several commands and can be used in inline mode:
 
-@rollrobot [notation] -- inline request, recognizes both notations
+@rollthembot [notation] -- inline request, recognizes both notations
 /roll [notation] -- default roll, recognizes both notations
 /full [notation] -- same to '/roll', but shows roll for each dice
 /random -- 'd100' roll
@@ -45,7 +45,7 @@ where ...
 `/wod 6d10!>6f1` ➜ number of successes for '6d10!>6f1'<br/>
 `/random` ➜ 'd100'
 
-[Rate](https://telegram.me/storebot?start=rollrobot) the bot, if you like it.
+[Rate](https://telegram.me/storebot?start=rollthembot) the bot, if you like it.
 
 Your ideas on improvement are welcome.
 

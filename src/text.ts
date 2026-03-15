@@ -2,7 +2,7 @@ export const helpText = `Roll the dice like no one before. Generate random numbe
 
 Bot recognizes several commands and can be used in inline mode:
 
-@rollrobot [notation] — inline request, recognizes both notations
+@rollthembot [notation] — inline request, recognizes both notations
 /roll [notation] — default roll, recognizes both notations
 /full [notation] — same to '/roll', but shows roll for each dice
 /random — 'd100' roll
@@ -32,7 +32,7 @@ where ...
 \`/random\` ➜ 'd100'
 
 Rate the bot, if you like it.
-https://telegram.me/storebot?start=rollrobot
+https://telegram.me/storebot?start=rollthembot
 
 Your ideas on improvement are welcome.
 

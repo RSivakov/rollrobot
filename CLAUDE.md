@@ -1,4 +1,4 @@
-# rollrobot
+# rollthembot
 
 Telegram bot for dice rolling. TypeScript, Bun, grammY. Uses `roll-parser` for notation parsing.
 
