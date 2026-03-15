@@ -1,0 +1,16 @@
+services:
+  bot:
+    build: .
+    container_name: rollrobot
+    restart: unless-stopped
+    environment:
+      - TOKEN=${TOKEN}
+      - WEBHOOK_URL=${WEBHOOK_URL}
+      - PORT=${PORT:-3000}
+    ports:
+      - "${PORT:-3000}:3000"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
